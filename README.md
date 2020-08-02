@@ -1,7 +1,3 @@
 # Football
 
-Analysis on 
-FIFA
-& 
-FPL
-data
+Analysis on FIFA & FPLdata
